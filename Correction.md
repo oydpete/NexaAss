@@ -1,4 +1,10 @@
-# TASK 1
+Outline 
+[TASK 1]()
+[TASK 2](TASK 2.md)
+[TASK 3]()
+TASK 2.md
+
+# [TASK 1]()
 
 # USER AND ROLES MANAGEMENT
 

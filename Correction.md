@@ -1,7 +1,7 @@
 Outline 
 [TASK 1]()
 
-[TASK 2](TASK 2.md)
+[TASK 2](https://github.com/oydpete/NexaAss/blob/main/TASK%202.md#task-2)
 
 [TASK 3]()
 TASK 2.md

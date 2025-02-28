@@ -39,7 +39,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
         # Subtitute for  PID of the Processes 
 
 * Screenshot to Confirm Kill
-![alt text](<../Screenshot/kill confirm.png>)
+![alt text](../Screenshot/kill confirm.png)
 
 
 **Note : Nginx Process has been killed** 

@@ -125,8 +125,8 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot to Confirm if Users JrDev1 & JrDev2 can ssh
 
-![alt text](<Testing restriction.png>)
+![alt text](<../Screenshot/Testing restriction.png>)
 
 ## Here is a Screenshot of Bash Script output
 
-![alt text](<Script Output.png>)
+![alt text](<../Screenshot/Script Output.png>)

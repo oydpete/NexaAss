@@ -25,6 +25,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
 *Screenshot of Output is shown Below
 
 ![alt text](<../Screenshot/top output.png>)
+
 ********
 
 ### STEP 2

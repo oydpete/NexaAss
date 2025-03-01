@@ -112,7 +112,9 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot of Vim Editor is Shown Below
 
-    ![alt text](crt1.png)
+    ![alt text](../Screenshot/crt1.png)
+
+ Script Output.png
 
 
 ****

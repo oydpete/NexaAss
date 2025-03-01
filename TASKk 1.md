@@ -130,3 +130,4 @@ Your company recently hired five new developers who need access to the developme
 ## Here is a Screenshot of Bash Script output
 
 ![alt text](<../Screenshot/Script Output.png>)
+

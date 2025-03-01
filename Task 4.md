@@ -59,7 +59,7 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot of the process is attached here 
 
-![alt text](<XIII Q4 Secure PORT Access.png>)
+![alt text](<../Screenshot/XIII Q4 Secure PORT Access.png>)
 
 
 **********
@@ -76,4 +76,4 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot is shown Here
 
-![**alt text**](<XV Q4 SSH EDIT PAGE.png>)
+![**alt text**](<../Screenshot/XV Q4 SSH EDIT PAGE.png>)

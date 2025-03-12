@@ -131,5 +131,5 @@ Your company recently hired five new developers who need access to the developme
 
 ## Here is a Screenshot of Bash Script output
 
-![alt text](<https://github.com/oydpete/NexaAss/blob/main/Screenshot/Script%20Output.png)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/Script%20Output.png)
 

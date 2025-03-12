@@ -4,7 +4,7 @@
 
 Your company recently hired five new developers who need access to the development server. Your task is to:
 
-1. Create user accounts for them and add them to the developers group.\
+1. Create user accounts for them and add them to the developers group.
 
 2. Ensure they have read and execute permissions for /var/www/project but cannot modify files
 
@@ -112,7 +112,7 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot of Vim Editor is Shown Below
 
-    ![alt text](crt1.png)
+    ![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/crt1.png)
 
 
 ****
@@ -125,11 +125,11 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot to Confirm if Users JrDev1 & JrDev2 can ssh
 
-![alt text](<Testing restriction.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/Testing%20restriction.png)
 
 ## Here is a Screenshot of Bash Script output
 
-![alt text](<Script Output.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/Script%20Output.png)
 
 # TASK 2
 
@@ -157,7 +157,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
 
 *Screenshot of Output is shown Below
 
-![alt text](<top output.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/top%20output.png)
 
 ********
 
@@ -172,7 +172,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
         # Subtitute for  PID of the Processes 
 
 * Screenshot to Confirm Kill
-![alt text](<kill confirm.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/kill%20confirm.png)
 
 
 **Note : Nginx Process has been killed** 
@@ -294,7 +294,7 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot of the process is attached here 
 
-![alt text](<XIII Q4 Secure PORT Access.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/XIII%20Q4%20Secure%20PORT%20Access.png)
 
 
 **********
@@ -311,4 +311,4 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot is shown Here
 
-![**alt text**](<XV Q4 SSH EDIT PAGE.png>)
+![**alt text**](https://github.com/oydpete/NexaAss/blob/main/Screenshot/XV%20Q4%20SSH%20EDIT%20PAGE.png)

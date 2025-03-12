@@ -123,7 +123,7 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot of Vim Editor is Shown Below
 
-    ![alt text](../crt1.png)
+    ![alt text](<../Screenshot/../Screenshot/crt1.png>)
 
 
 ****
@@ -136,11 +136,11 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot to Confirm if Users JrDev1 & JrDev2 can ssh
 
-![alt text](<Testing restriction.png>)
+![alt text](<../Screenshot/Testing restriction.png>)
 
 ## Here is a Screenshot of Bash Script output
 
-![alt text](<Script Output.png>)
+![alt text](<../Screenshot/Script Output.png>)
 
 # TASK 2
 
@@ -168,7 +168,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
 
 *Screenshot of Output is shown Below
 
-![alt text](<top output.png>)
+![alt text](<../Screenshot/top output.png>)
 
 ********
 
@@ -178,12 +178,12 @@ Your team has reported server slowness during peak hours. Your goal is to:
 
 * Terminate unncessary processes
 
-        sudo kill -9 <PID>
+        sudo kill -9 <../Screenshot/PID>
         
         # Subtitute for  PID of the Processes 
 
 * Screenshot to Confirm Kill
-![alt text](<kill confirm.png>)
+![alt text](<../Screenshot/kill confirm.png>)
 
 
 **Note : Nginx Process has been killed** 
@@ -305,7 +305,7 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot of the process is attached here 
 
-![alt text](<XIII Q4 Secure PORT Access.png>)
+![alt text](<../Screenshot/XIII Q4 Secure PORT Access.png>)
 
 
 **********
@@ -322,4 +322,4 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot is shown Here
 
-![**alt text**](<XV Q4 SSH EDIT PAGE.png>)
+![**alt text**](<../Screenshot/XV Q4 SSH EDIT PAGE.png>)

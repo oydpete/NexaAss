@@ -142,7 +142,7 @@ Your company recently hired five new developers who need access to the developme
 
 ## Here is a Screenshot of Bash Script output
 
-![alt text](<../Screenshot/Script Output.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/Script%20Output.png)
 
 # TASK 2
 
@@ -170,7 +170,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
 
 *Screenshot of Output is shown Below
 
-![alt text](<../Screenshot/top output.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/top%20output.png)
 
 ********
 
@@ -185,7 +185,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
         # Subtitute for  PID of the Processes 
 
 * Screenshot to Confirm Kill
-![alt text](<../Screenshot/kill confirm.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/kill%20confirm.png)
 
 
 **Note : Nginx Process has been killed** 
@@ -307,7 +307,7 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot of the process is attached here 
 
-![alt text](<../Screenshot/XIII Q4 Secure PORT Access.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/XIII%20Q4%20Secure%20PORT%20Access.png)
 
 
 **********
@@ -324,6 +324,5 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot is shown Here
 
-![alt text](<../Screenshot/XV Q4 SSH EDIT PAGE.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/XV%20Q4%20SSH%20EDIT%20PAGE.png)
 
-Screenshot/XV Q4 SSH EDIT PAGE.png

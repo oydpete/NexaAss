@@ -322,4 +322,6 @@ Security is a top priority at HypotheticalCorp. Your task is to:
 
 * Screenshot is shown Here
 
-![**alt text**](<../Screenshot/XV Q4 SSH EDIT PAGE.png>)
+![alt text](<../Screenshot/XV Q4 SSH EDIT PAGE.png>)
+
+Screenshot/XV Q4 SSH EDIT PAGE.png

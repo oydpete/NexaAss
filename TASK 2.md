@@ -24,7 +24,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
 
 *Screenshot of Output is shown Below
 
-![alt text](<../Screenshot/top output.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/top%20output.png)
 
  
 
@@ -41,7 +41,7 @@ Your team has reported server slowness during peak hours. Your goal is to:
         # Subtitute for  PID of the Processes 
 
 * Screenshot to Confirm Kill
-![alt text](../Screenshot/kill confirm.png)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/kill%20confirm.png)
 
 
 **Note : Nginx Process has been killed** 

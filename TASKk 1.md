@@ -112,7 +112,7 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot of Vim Editor is Shown Below
 
-    ![alt text](../Screenshot/crt1.png)
+    ![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/crt1.png)
 
  Script Output.png
 
@@ -127,9 +127,9 @@ Your company recently hired five new developers who need access to the developme
 
 * Screenshot to Confirm if Users JrDev1 & JrDev2 can ssh
 
-![alt text](<../Screenshot/Testing restriction.png>)
+![alt text](https://github.com/oydpete/NexaAss/blob/main/Screenshot/Testing%20restriction.png)
 
 ## Here is a Screenshot of Bash Script output
 
-![alt text](<../Screenshot/Script Output.png>)
+![alt text](<https://github.com/oydpete/NexaAss/blob/main/Screenshot/Script%20Output.png)
 
